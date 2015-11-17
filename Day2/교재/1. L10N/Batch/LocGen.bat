@@ -1,0 +1,1 @@
+"C:\Program Files\Epic Games\4.9\Engine\Binaries\Win64\UE4Editor-Cmd.exe" "%CD%\%1.uproject" -run=GatherText -config="%CD%\Config\Localization\Game.ini"
